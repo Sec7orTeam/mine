@@ -47,6 +47,13 @@
 
 10. setelah sudah lakukan workflow dan save kalian buka di menu codespace, ini saya bagikan 3 vps gratis seumur hidup tanpa banned dan tersedia 2Core 4gb ram dan 4Core 6gb ram
 
+
+donate :
+- Xno       : nano_39o8mesan7jbxyw1bxxwdx47qd7aapddhg374mxb6ut48y91bdaqqnfjeif1
+- Near      : sec7or.near
+- bitrefill : sec7or@bitrefill.me
+- zbd       : sec7or@zbd.gg
+
 Code lainnya :
 1. rm -rf : hapus file dan berkas tanpa pilihan Y atau N
 2. nano : edit file dan membuat file
