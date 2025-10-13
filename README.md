@@ -49,7 +49,7 @@
 
 
 donate :
-- Xno       : nano_39o8mesan7jbxyw1bxxwdx47qd7aapddhg374mxb6ut48y91bdaqqnfjeif1
+- Xno       : sec7or@xno.link
 - Near      : sec7or.near
 - bitrefill : sec7or@bitrefill.me
 - zbd       : sec7or@zbd.gg
