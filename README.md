@@ -49,10 +49,10 @@
 
 
 donate :
-- Xno       : sec7or@xno.link
-- Near      : sec7or.near
-- bitrefill : sec7or@bitrefill.me
-- zbd       : sec7or@zbd.gg
+- Xno                       : https://xno.link/sec7or
+- Near                      : sec7or.near
+- Bitcoin Lightning Address : sec7or@bitrefill.me
+- zbd                       : sec7or@zbd.gg
 
 Code lainnya :
 1. rm -rf : hapus file dan berkas tanpa pilihan Y atau N
