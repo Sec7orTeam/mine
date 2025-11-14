@@ -57,6 +57,7 @@ donate :
 - Near                      : sec7or.near
 - Bitcoin Lightning Address : sec7or@bitrefill.me
 - zbd                       : sec7or@zbd.gg
+- XMR                       : https://sendxmr.com/@sec7or
 
 Code lainnya :
 1. rm -rf : hapus file dan berkas tanpa pilihan Y atau N
