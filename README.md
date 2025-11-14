@@ -5,11 +5,11 @@
 0. buat akun github baru lalu install semua code ini dengan code :
    code jalan kan wget https://github.com/Sec7orTeam/mine
    
-1. code jalankan : php Auto-Create-Config-Mining-Nanswap|XNO.php
-   File : Auto-Create-Config-Mining-Nanswap|XNO.php
+1. code jalankan : php Create-Config.php
+   File : Create-Config.php
 
-2. code jalankan : php Auto-Install-Berkas-Mining-Nanswap|XNO.php
-   File : Auto-Install-Berkas-Mining-Nanswap|XNO.php
+2. code jalankan : php Install-File.php
+   File : Install-File.php
 
 3. Jangan lupa edit config.json ganti user kalian dengan address xno kalian sebelum jalankan bot
    FILE : config.json
@@ -35,11 +35,11 @@
     ]
 }
 
-4. code jalankan : php Auto-wd.php
-   FILE : Auto-wd.php
+4. code jalankan : php Auto-wd-1-jam.php
+   FILE : Auto-wd-1-jam.php
 
-5. code jalankan : php Update-saldo.php
-   FILE : Update-saldo.php
+5. code jalankan : php Update-saldo-1min.php
+   FILE : Update-saldo-1min.php
 
 6. buka tab dan paste https://cs50.dev/ lalu login dengan akun github kalian, setelah login kalian tutup tab tersebut
 
