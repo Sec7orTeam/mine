@@ -1,3 +1,7 @@
+* website mining :
+- https://nanswap.com/mining/nano
+- https://unmineable.com/?algorithm=randomx
+
 0. buat akun github baru lalu install semua code ini dengan code :
    code jalan kan wget https://github.com/Sec7orTeam/mine
    
